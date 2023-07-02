@@ -33,7 +33,7 @@ Die Border-Beispiele zeigen verschiedene Rahmenstile, die mit CSS auf Elemente a
  Die Flex Direction Beispiele demonstrieren die Auswirkung verschiedener Flex-Direction-Werte auf die Anordnung von Flex-Elementen.
  - [Flex Direction Beispiele](https://github.com/Satisfraction/CSS-Rules-Explained/tree/main/Deutsche-Version/Beispiele/Flex%20Direction%20Beispiele)
 
-### Beispiele für Farbverläufe
+### Gradient Beispiele
 
 Die Beispiele für Farbverläufe demonstrieren verschiedene Farbverlaufsstile, die verwendet werden können, um weiche Farbübergänge in Elementen mit CSS zu erstellen, einschließlich linearer Farbverlauf, radialer Farbverlauf, konischer Farbverlauf, sich wiederholender linearer Farbverlauf und sich wiederholender radialer Farbverlauf.
 - [Beispiele für Farbverläufe](https://github.com/Satisfraction/CSS-Rules-Explained/tree/main/Deutsche-Version/Beispiele/Gradient%20Beispiele)
