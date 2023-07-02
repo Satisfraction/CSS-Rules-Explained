@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+.gradient-box {
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.linear-gradient {
+    background: linear-gradient(to right, #ff0000, #0000ff);
+}
+
+.radial-gradient {
+    background: radial-gradient(circle, #ff0000, #0000ff);
+}
+
+.conic-gradient {
+    background: conic-gradient(#ff0000, #0000ff, #00ff00);
+}
+
+.repeating-linear-gradient {
+    background: repeating-linear-gradient(to right, #ff0000, #0000ff);
+}
+
+.repeating-radial-gradient {
+    background: repeating-radial-gradient(circle, #ff0000, #0000ff);
+}
