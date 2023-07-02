@@ -36,7 +36,7 @@ Die Border-Beispiele zeigen verschiedene Rahmenstile, die mit CSS auf Elemente a
 ### Gradient Beispiele
 
 Die Beispiele für Farbverläufe demonstrieren verschiedene Farbverlaufsstile, die verwendet werden können, um weiche Farbübergänge in Elementen mit CSS zu erstellen, einschließlich linearer Farbverlauf, radialer Farbverlauf, konischer Farbverlauf, sich wiederholender linearer Farbverlauf und sich wiederholender radialer Farbverlauf.
-- [Beispiele für Farbverläufe](https://github.com/Satisfraction/CSS-Rules-Explained/tree/main/Deutsche-Version/Beispiele/Gradient%20Beispiele)
+- [Gradient Beispiele](https://github.com/Satisfraction/CSS-Rules-Explained/tree/main/Deutsche-Version/Beispiele/Gradient%20Beispiele)
 
 ### Justify Content Beispiele
 
