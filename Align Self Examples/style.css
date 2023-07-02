@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    justify-content: center;
+    margin-bottom: 10px;
+    border: solid 1px black;
+  }
+  
+  .box {
+    width: 100px;
+    height: 50px;
+    background-color: lightblue;
+    border: 1px solid blue;
+  }
+  
