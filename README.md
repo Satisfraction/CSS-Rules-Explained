@@ -21,22 +21,27 @@ CSS Rules Explained is a collection of HTML and CSS examples that aim to explain
 ### Align Self Examples
 
 The Align Self Examples demonstrate different align-self values in flexbox layout, allowing individual flex items to override the align-items value set on the flex container.
+- [Align Self Examples](https://github.com/Satisfraction/CSS-Rules-Explained/tree/main/Align%20Self%20Examples)
 
 ### Border Examples
 
 The Border Examples exhibit different border styles that can be applied to elements using CSS, such as solid, dotted, dashed, double, groove, ridge, inset, outset, none, and hidden.
+- [Border Examples](https://github.com/Satisfraction/CSS-Rules-Explained/tree/main/Border%20Examples)
 
 ### Flex Direction Examples
 
  The Flex Direction Examples demonstrates the impact of different flex-direction values on the arrangement of flex items.
+ - [Flex Direction Examples](https://github.com/Satisfraction/CSS-Rules-Explained/tree/main/Flex%20Direction%20Examples)
 
 ### Gradient Examples
 
 The Gradient Examples demonstrate different gradient styles that can be used to create smooth color transitions in elements using CSS, including linear gradient, radial gradient, conic gradient, repeating linear gradient, and repeating radial gradient.
+- [Gradient Examples](https://github.com/Satisfraction/CSS-Rules-Explained/tree/main/Gradient%20Examples)
 
 ### Justify Content Examples
 
 The Justify Content Examples showcase various justify-content values in flexbox layout, controlling the alignment of flex items along the main axis.
+- [Justify Content Examples](https://github.com/Satisfraction/CSS-Rules-Explained/tree/main/Justify%20Content%20Examples)
 
 ## Getting Started
 
